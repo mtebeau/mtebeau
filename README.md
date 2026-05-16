@@ -11,27 +11,23 @@ This repository is designed as a public-facing GitHub profile hub: a place to do
 
 ## Featured Project Areas
 
-- [Pandemic Archive](./Projects/Pandemic%20Archive/README.md)
+- [A Journal of the Plague Year: An Archive of Covid-19](./Projects/Pandemic%20Archive/README.md)
 - [Curatescape](./Projects/Curatescape/README.md)
-- [Dossier](./Projects/Dossier/README.md)
-- [Monuments](./Projects/Monuments/README.md)
 - [Arizona Stories](./Projects/Arizona%20Stories/README.md)
+- [Monuments](./Projects/Monuments/README.md)
+- [Dossier](./Projects/Dossier/README.md)
 
-## GitHub Notes
+## Contact
 
-- GitHub replaces "Popular repositories" with **Pinned** repositories when you customize your pins.
-- Public visitors cannot see a private repository in your pinned section.
-- Because ARCADE is private, the best public workaround is to feature ARCADE in this profile README and, if desired later, create a separate public-facing overview repository for it.
-
-## Repository Structure
-
-- `Projects/`
-  Working documentation hubs for major projects and initiatives.
-- `PROFILE-SETUP.md`
-  Notes on how to configure this repo and your public GitHub profile.
-
-## Next Profile Steps
-
-- Pin this repository to your profile once it is pushed publicly.
-- Add or revise the project summaries over time.
-- If you want ARCADE visible to the public profile, create a public companion repository such as `ARCADE-overview` while keeping the main repository private.
+Mark Tebeau, Ph.D.  
+Associate Professor & Public History Program Director  
+School of Historical, Philosophical, & Religious Studies  
+Senior Global Futures Scientist,  
+Julie Ann Wrigley Global Futures Laboratory  
+Arizona State University  
+Tempe, Arizona 85287-4302  
+phone: 480.965.8595  
+Zoom: [asu.zoom.us/my/mark.tebeau](https://asu.zoom.us/my/mark.tebeau)  
+[www.marktebeau.com](https://www.marktebeau.com)  
+[www.curatescape.org](https://www.curatescape.org)  
+Calendly: [calendly.com/mark-tebeau/meeting](https://calendly.com/mark-tebeau/meeting)

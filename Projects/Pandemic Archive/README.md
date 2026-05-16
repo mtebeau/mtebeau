@@ -1,4 +1,4 @@
-# Pandemic Archive
+# A Journal of the Plague Year: An Archive of Covid-19
 
 ## Status
 
