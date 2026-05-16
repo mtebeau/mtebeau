@@ -1,4 +1,4 @@
-# Eli Tebeau
+# Mark Tebeau
 
 Historian, public humanist, and builder of digital curation projects.
 
