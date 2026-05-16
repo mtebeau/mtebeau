@@ -7,7 +7,7 @@ This repository is designed as a public-facing GitHub profile hub: a place to do
 ## Current Focus
 
 - **ARCADE**
-  ARCADE is an active curatorial platform project. The working repository remains private, but it is a central part of my current digital humanities and public history work.
+  is an active curatorial platform project. The working repository remains private, but it is a central part of my current digital humanities and public history work.
 
 ## Featured Project Areas
 
