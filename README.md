@@ -2,20 +2,21 @@
 
 Historian, public humanist, and builder of digital curation projects.
 
-This repository is designed as a public-facing GitHub profile hub: a place to document ongoing and completed work, point to active codebases, and make project histories easier to follow.
+My work sits at the intersection of history, public humanities, archives, and digital storytelling. I build projects that connect scholarly research with public audiences, with a particular interest in place-based interpretation, collaborative knowledge creation, curation, and the ways digital tools can support memory, community, and historical understanding.
+
+This repository is a public-facing hub for that work. It brings together active projects, completed initiatives, and the digital frameworks that support them.
 
 ## Current Focus
 
-- **ARCADE**
-  ARCADE is an active curatorial platform project. The working repository remains private, but it is a central part of my current digital humanities and public history work.
+ARCADE is the current focus of my digital history research. It is an effort to combine ethical AI, human-guided curation, and professional training in order to unlock "dark archives" and make hidden cultural heritage more discoverable. By pairing student and professional curators with AI-assisted metadata creation, ARCADE aims to expand access to archival collections while building a scalable, humane model for public history, archival discovery, and historical interpretation.
 
 ## Featured Project Areas
 
-- [A Journal of the Plague Year: An Archive of Covid-19](./Projects/Pandemic%20Archive/README.md)
-- [Curatescape](./Projects/Curatescape/README.md)
-- [Arizona Stories](./Projects/Arizona%20Stories/README.md)
-- [Monuments](./Projects/Monuments/README.md)
-- [Dossier](./Projects/Dossier/README.md)
+- [A Journal of the Plague Year: An Archive of Covid-19](./Projects/Pandemic%20Archive/README.md) documented the pandemic through a collaboratively curated archive with more than 20,000 digital objects; it is the world's largest born-digital archive of the pandemic.
+- [Curatescape](./Projects/Curatescape/README.md) is a mobile-first history platform through which communities engage public audiences through place-based work across cities, natural environments, and museums.
+- [Salt River Stories](./Projects/Arizona%20Stories/README.md) interprets the history of Phoenix and the Salt River Valley through multimedia historical stories developed by students.
+- [Global World War II Monuments](./Projects/Monuments/README.md) reflects my work with students to explore memory, commemoration, and the public life of historical interpretation.
+- [Dossier](./Projects/Dossier/README.md) serves as a space for documenting research, curation, and related project development.
 
 ## Contact
 
