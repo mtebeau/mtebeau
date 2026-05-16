@@ -12,11 +12,11 @@ ARCADE is the current focus of my digital history research. It is an effort to c
 
 ## Featured Project Areas
 
-- [A Journal of the Plague Year: An Archive of Covid-19](./Projects/Pandemic%20Archive/README.md) documented the pandemic through a collaboratively curated archive with more than 20,000 digital objects; it is the world's largest born-digital archive of the pandemic.
-- [Curatescape](./Projects/Curatescape/README.md) is a mobile-first history platform through which communities engage public audiences through place-based work across cities, natural environments, and museums.
-- [Salt River Stories](./Projects/Arizona%20Stories/README.md) interprets the history of Phoenix and the Salt River Valley through multimedia historical stories developed by students.
-- [Global World War II Monuments](./Projects/Monuments/README.md) reflects my work with students to explore memory, commemoration, and the public life of historical interpretation.
-- [Dossier](./Projects/Dossier/README.md) serves as a space for documenting research, curation, and related project development.
+- [A Journal of the Plague Year: An Archive of Covid-19](https://github.com/mtebeau/journal-of-the-plague-year) documented the pandemic through a collaboratively curated archive with more than 20,000 digital objects; it is the world's largest born-digital archive of the pandemic.
+- [Curatescape](https://github.com/mtebeau/curatescape) is a mobile-first history platform through which communities engage public audiences through place-based work across cities, natural environments, and museums.
+- [Salt River Stories](https://github.com/mtebeau/salt-river-stories) interprets the history of Phoenix and the Salt River Valley through multimedia historical stories developed by students.
+- [Global World War II Monuments](https://github.com/mtebeau/global-world-war-ii-monuments) reflects my work with students to explore memory, commemoration, and the public life of historical interpretation.
+- [Dossier](https://github.com/mtebeau/dossier) serves as a space for documenting research, curation, and related project development.
 
 ## Contact
 
